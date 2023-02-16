@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chrisgusna
 - 👀 I’m interested in programming languages and blockchain technology
-- 🌱 I’m currently learning content writing
 - 💞️ I’m looking to collaborate on any crypto project and bootcamp, hackathon
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/christopher-john-4b3840232
 
